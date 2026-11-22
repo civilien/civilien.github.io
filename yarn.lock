@@ -672,6 +672,11 @@ hexo-log@^4.0.1, hexo-log@^4.1.0:
   dependencies:
     picocolors "^1.0.0"
 
+hexo-markdown-image@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.npmmirror.com/hexo-markdown-image/-/hexo-markdown-image-1.0.5.tgz"
+  integrity sha512-oe0+HueIOuhCTsoxN553bGAvv7UpOABGqR7vFEMXeuF9PTgsHY9B1F+t5ptdAZTtc3oUTj8PrP9/JeR5Ry0xZg==
+
 hexo-pagination@3.0.0:
   version "3.0.0"
   resolved "https://registry.npmmirror.com/hexo-pagination/-/hexo-pagination-3.0.0.tgz"
@@ -720,6 +725,11 @@ hexo-theme-landscape@^1.0.0:
   version "1.1.0"
   resolved "https://registry.npmmirror.com/hexo-theme-landscape/-/hexo-theme-landscape-1.1.0.tgz"
   integrity sha512-nszjixBEiEDZjf7glAGbHg0nKGHZdUDwzFVVdRDeu4FeHfGcY5CZNl9sF4vSligjnD8IwFXpDfx5E+GRmNKvWg==
+
+hexo-theme-next@^8.29.1:
+  version "8.29.1"
+  resolved "https://registry.npmmirror.com/hexo-theme-next/-/hexo-theme-next-8.29.1.tgz"
+  integrity sha512-rTiBjbVE6KR1YRsqB4wHPUjSJSBHyZXxMmXStuqQsx+uSz7aRRgZ7sH5dKo7cz41jQoGaI8MvI/AHTiNuIIclQ==
 
 hexo-util@^3.0.1, hexo-util@^3.1.0, hexo-util@^3.3.0:
   version "3.3.0"
